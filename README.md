@@ -1,8 +1,14 @@
 # Use Hummingbird to convert your traditional ML models into PyTorch & take advantage of GPU
-A small introductory tutorial on Hummingbird!
 
-* [Click here](https://youtu.be/U2as6yzmZyU)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=U2as6yzmZyU" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/U2as6yzmZyU?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![JupyterDash Tutorial](http://img.youtube.com/vi/U2as6yzmZyU/0.jpg)](http://www.youtube.com/watch?v=U2as6yzmZyU)
 
